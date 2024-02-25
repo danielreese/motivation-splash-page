@@ -45,14 +45,14 @@ header .img-container .content h1 span:hover {
 }
 
 header .img-container .content p {
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 300;
     color: orangered;
     text-transform: uppercase;
 }
 
 header .img-container .content p span {
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 100;
     color: black;
 }
